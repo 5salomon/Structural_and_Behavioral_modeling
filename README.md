@@ -8,4 +8,7 @@ En este proceso del diseño de un sumador de x64 bits nos basamos en la hoja de 
 primero de se realizo el sumador completo , el cual cuanta con tres entradas y dos salidas , las entradas seran A , B y Cin siendo Cin el acarreo de entrada , y las salidas van a ser Sout que sera la suma y Cout siendo el acarreo de salida.
 ![alt text](image-1.png)  ![alt text](image-2.png)
 
+Luego tendremos el sumador de dos bits que esta conformado por dos intacias del fulladder, este sumador de dos bits tendra 5 entradas y 3 salidas. Las entradas seran A1 , A2 , B1 ,B2, Cin y las salidas son out 1 ,out 2 y Cout.
+
+![alt text](image-3.png) ![alt text](image-4.png) ![alt text](image-5.png)
 
