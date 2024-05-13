@@ -12,3 +12,13 @@ Luego tendremos el sumador de dos bits que esta conformado por dos intacias del 
 
 ![alt text](image-3.png) ![alt text](image-4.png) ![alt text](image-5.png)
 
+Teniendo el sumador de 2 bits se procedio hacer el sumador de 4 bits que esta hecho con dos sumador de x2 bits. este sumador tiene 8 entradas y 5 salidas.
+
+![alt text](image-6.png) ![alt text](image-7.png) ![alt text](image-8.png)
+
+Partiendo del sumador de x4 bits se procedio hacer el sumador de x8 bits que esta hecho con 2 sumadores de x4 bits en cascada.
+
+![alt text](image-9.png) ![alt text](image-10.png) ![alt text](image-11.png)
+
+
+
