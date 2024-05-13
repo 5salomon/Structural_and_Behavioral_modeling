@@ -20,5 +20,15 @@ Partiendo del sumador de x4 bits se procedio hacer el sumador de x8 bits que est
 
 ![alt text](image-9.png) ![alt text](image-10.png) ![alt text](image-11.png)
 
+El sumador de x16 bits esta compuesto de igual forma de dos sumadores de x8 bits y quedo de la siguiente manera
 
+![alt text](image-12.png) ![alt text](image-13.png)
+
+el sumador de x32 bits esta hecho con dos sumadore de x16 bits en cascada
+
+![alt text](image-14.png) ![alt text](image-15.png)
+
+Finalmente el sumador de x64 bits esta hecho con dos sumadores de x32 bits en cascada y quedo de la siguiente forma:
+
+![alt text](image-16.png) ![alt text](image-17.png)
 
